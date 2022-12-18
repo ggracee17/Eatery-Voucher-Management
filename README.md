@@ -4,17 +4,17 @@
 
 ## Team Members
 
--   [Penghui He](https://webcms3.cse.unsw.edu.au/users/z5268310)
--   [Runze Li](https://webcms3.cse.unsw.edu.au/users/z5286712)
--   [Xingyu Shen](https://webcms3.cse.unsw.edu.au/users/z5211156)
--   [Xinran Tang](https://webcms3.cse.unsw.edu.au/users/z5300870)
--   [Yoichi Minanokawa](https://webcms3.cse.unsw.edu.au/users/z5271781)
+-   [Penghui He](https://github.com/howardhehui)
+-   [Runze Li](https://github.com/RazeenLI)
+-   [Xingyu Shen](https://github.com/ggracee17)
+-   [Xinran Tang](https://github.com/freesia-hlcs)
+-   [Yoichi Minanokawa](https://github.com/Yoichi0831)
 
 ## Frontend set up 
 
 This project was created with `Create React App`.
 
-In order to open it for the first time or the front-end configuration is wrong, you can try to run the installation of the required libraries on `/frontend`.
+In order to open it for the first time or the front-end configuration is wrong, you can try to run the installation of the required libraries on `Eatery-Voucher-Management-System/frontend`.
 
 ```
 npm install
