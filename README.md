@@ -1,7 +1,7 @@
 ## Eatery Vouchers Management System
 UNSW COMP3900 22T2 Project
 
-An eatery vouchers management system that allows customers to book vouchers they are interested in. It also allows restaurants to manage their vouchers and profiles. 
+An eatery vouchers management system that allows customers to book vouchers to restaurants they are interested in. It also allows restaurants to manage their vouchers and profiles. 
 
 ## Features
 - customers can register accounts, search for vouchers, review restaurants, share vouchers and add any restaurants to their wish lists. 
