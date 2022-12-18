@@ -1,5 +1,3 @@
-# Project of 3900-w18a-dragon-fruit
-
 ## Eatery Vouchers Management System
 
 
