@@ -1,63 +1,70 @@
-# Project of 3900-w18a-dragon-fruit
+# Getting Started with Create React App
 
-## Eatery Vouchers Management System
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
+In the project directory, you can run:
 
-## Team Members
+### `npm start`
 
--   [Penghui He](https://webcms3.cse.unsw.edu.au/users/z5268310)
--   [Runze Li](https://webcms3.cse.unsw.edu.au/users/z5286712)
--   [Xingyu Shen](https://webcms3.cse.unsw.edu.au/users/z5211156)
--   [Xinran Tang](https://webcms3.cse.unsw.edu.au/users/z5300870)
--   [Yoichi Minanokawa](https://webcms3.cse.unsw.edu.au/users/z5271781)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Frontend set up 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-This project was created with `Create React App`.
+### `npm test`
 
-In order to open it for the first time or the front-end configuration is wrong, you can try to run the installation of the required libraries on `/frontend`.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```
-npm install
-```
+### `npm run build`
 
-In the project directory you can run the app in the development mode with the code
-```
-npm start
-```
-Open [http://localhost:3000](http://localhost:3000) to view it in browser and pages will reload when you make changes.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Backend set up
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-The system requires Python 3.7+
+### `npm run eject`
 
-In the project firectory, use this command to install required modules:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-```
-pip install -r requirements.txt
-```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-After you install all the modules, then change the current directory to `capstone-project-3900-w18a-dragon-fruit/backend/src/`
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Then run the command below to run the server:
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```
-python3 server.py
-```
+## Learn More
 
-Now the server is running on [http://localhost:8000](http://localhost:8000).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Useful Links
+To learn React, check out the [React documentation](https://reactjs.org/).
 
--   [Project Description](https://webcms3.cse.unsw.edu.au/COMP9900/22T2/resources/77128)
--   [Project Example 1 - eatclub](https://eatclub.com.au/)
--   [Project Example 1 - firsttable](https://www.firsttable.com.au/sydney)
+### Code Splitting
 
--   [Miro - Frount](https://miro.com/app/dashboard/)
--   [Frontend Router](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
--   [Font Awesome - Icon](https://fontawesome.com/icons)
--   [Theme Style Check](https://bareynol.github.io/mui-theme-creator/)
--   [Flask Guildline](https://flask.palletsprojects.com/en/2.2.x/)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
