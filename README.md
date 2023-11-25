@@ -43,7 +43,7 @@ In the project firectory, use this command to install required modules:
 pip install -r requirements.txt
 ```
 
-After you install all the modules, then change the current directory to `capstone-project-3900-w18a-dragon-fruit/backend/src/`
+After you install all the modules, then change the current directory to `Eatery-Voucher-Management-System/backend/src/`
 
 Then run the command below to run the server:
 
